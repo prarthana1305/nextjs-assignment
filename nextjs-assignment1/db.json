@@ -1,0 +1,25 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "tasks": "Bring vegetables",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "tasks": "Journel",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "tasks": "Painting",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "tasks": "Walking",
+        "completed": false
+      }
+    ]
+  }
+  
